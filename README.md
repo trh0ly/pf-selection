@@ -1,4 +1,4 @@
-# Implications of different risk management strategies on the value/risk profile of the overall position
+# Implications of different risk management strategies on the value/risk profile of an overall position
 
 -----------------------------------------------------------------------------
 Overview:
