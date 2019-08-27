@@ -3,7 +3,7 @@
 # Risk Measure Module                                                           #
 # © Thomas Robert Holy 2019                                                     #
 # Version 0.1.0                                                                 #
-# E-Mail: thomas.robert.holy[at]uni-jena.de                                        #
+# E-Mail: thomas.robert.holy[at]uni-jena.de                                     #
 #################################################################################
 """
 #--------------------------------------------------------------------------------
