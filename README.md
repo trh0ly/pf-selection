@@ -10,7 +10,7 @@ Status:
 
 This project is under development.
 
-You can run the project here: https://mybinder.org/v2/gh/trh0ly/pf_selection/master
+You can run the project here: https://mybinder.org/v2/gh/trh0ly/pf-selection/master
 
 -----------------------------------------------------------------------------
 Copyright:
